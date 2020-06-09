@@ -1,0 +1,2 @@
+include ':mrzparser'
+rootProject.name = "MRZ Parser Android"
